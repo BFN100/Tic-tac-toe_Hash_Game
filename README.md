@@ -4,7 +4,7 @@
 
 ##
 
-A basic tic-tac-toe game was created for the Introduction to Programming class
+A basic tic-tac-toe game was created for the Introduction to Programming class, this is in French because my college is in French, but I put the comments in English.
 
 ##
 
